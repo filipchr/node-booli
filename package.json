@@ -1,9 +1,10 @@
 {
   "name": "node-booli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This packages wrapps booli api into a nice interface",
   "main": "index.js",
   "author": "Filip Christoffersson <flpchrsn@gmail.com>",
+  "url": "https://github.com/filipchr/node-booli",
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.3.0",
