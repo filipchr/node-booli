@@ -77,7 +77,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/filipc
 
 ## License
 
-All data provided belongs to Booli Search Results.
+All data provided belongs to Booli Search Technologies AB.
 
 This packages is powered by [Booli](http://www.booli.se)
 
